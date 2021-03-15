@@ -9,6 +9,7 @@
 <a href="mailto:jacki.yanamura@gmail.com">
   <img src="https://img.shields.io/badge/EMAIL-jacki.yanamura%40gmail.com-1152ba?style=for-the-badge"/>
 </a>
+<br/><br/>
 
 * Let's connect on LinkedIn: [Jacki Yanamura](https://www.linkedin.com/in/jacki-yanamura/)
 * Follow me on Github: [Jacki Yanamura aka Day-Glow](https://github.com/day-glow)
@@ -18,8 +19,7 @@
 <a href="https://github.com/day-glow/day-glow">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=day-glow&show_icons=true&line_height=27&count_private=true&title_color=1152ba&text_color=000&icon_color=1152ba&bg_color=ffffff" alt="Jacki Yanamura's GitHub Stats" />
 </a>
-  <br/>
-  <br/>
+  <br/><br/>
 <a href="https://github.com/day-glow/day-glow">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=day-glow&layout=compact&hide=java,html&title_color=1152ba&text_color=000&icon_color=1152ba&bg_color=ffffff" />
 </a>
