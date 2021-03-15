@@ -14,3 +14,12 @@
 * Follow me on Github: [Jacki Yanamura aka Day-Glow](https://github.com/day-glow)
 * I love coding, spreading positivity and hearing feedback!
 *  👯 Send feedback or submit a PR with really cool ideas :)
+
+<a href="https://github.com/day-glow/day-glow">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=day-glow&show_icons=true&line_height=27&count_private=true&title_color=1152ba&text_color=000&icon_color=1152ba&bg_color=ffffff" alt="Jacki Yanamura's GitHub Stats" />
+</a>
+  <br/>
+  <br/>
+<a href="https://github.com/day-glow/day-glow">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=day-glow&layout=compact&hide=java,html&title_color=1152ba&text_color=000&icon_color=1152ba&bg_color=ffffff" />
+</a>
