@@ -1,15 +1,20 @@
 # Jacki Yanamura, Full Stack Engineer
-<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
+<a href="https://www.github.com/day-glow" target="_blank">
+  <img align='right' src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width='200"'/>
+</a>
 
-<!-- LinkedIn  -->
+<!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/jacki-yanamura/" target="_blank">
   <img src="https://img.shields.io/badge/-Jacki%20Yanamura-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/>
 </a>
-<!--   Email -->
+<!-- Github -->
+<a href="https://www.github.com/day-glow">
+  <img src="https://img.shields.io/badge/DayGlow-black?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<!-- Email -->
 <a href="mailto:jacki.yanamura@gmail.com">
   <img src="https://img.shields.io/badge/EMAIL-jacki.yanamura%40gmail.com-1152ba?style=for-the-badge"/>
 </a>
-<br/><br/>
 
 * Let's connect on LinkedIn: [Jacki Yanamura](https://www.linkedin.com/in/jacki-yanamura/)
 * Follow me on Github: [Jacki Yanamura aka Day-Glow](https://github.com/day-glow)
