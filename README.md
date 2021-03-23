@@ -16,6 +16,7 @@
   <img src="https://img.shields.io/badge/EMAIL-jacki.yanamura%40gmail.com-1152ba?style=for-the-badge"/>
 </a>
 
+
 * Let's connect on LinkedIn: [Jacki Yanamura](https://www.linkedin.com/in/jacki-yanamura/)
 * Follow me on Github: [Jacki Yanamura aka Day-Glow](https://github.com/day-glow)
 * I love coding, spreading positivity and hearing feedback!
